@@ -3,3 +3,6 @@ numpy
 matplotlib
 ipympl
 scipy
+import_ipynb
+jupytext
+pandas
